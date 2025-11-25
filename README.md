@@ -2,7 +2,7 @@
 ````md
 
 # **PHP RSA ID Validator**
-
+````
 ![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Packagist](https://img.shields.io/badge/Packagist-Ready-orange.svg)
@@ -10,7 +10,7 @@
 A professional, lightweight PHP library for validating South African ID numbers.
 It performs full structural checks, validates birth dates, determines gender, identifies citizenship, and verifies the Luhn check digit. Ideal for forms, authentication systems, HR platforms, and any application requiring reliable South African ID verification.
 
-````
+
 ---
 
 ## Features
