@@ -35,12 +35,12 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "PhpRsaIdValidator\\Tests\\": "tests/"
+            "PhpRsaIdValidator\\Tests\\": "test/"
         }
     },
     "scripts": {
-        "test": "phpunit tests/",
-        "test-coverage": "phpunit tests/ --coverage-html coverage"
+        "test": "phpunit test/",
+        "test-coverage": "phpunit test/ --coverage-html coverage"
     },
     "extra": {
         "branch-alias": {
